@@ -4,7 +4,7 @@ My Java8 Playground
 # Learning Java 8
 
 Requirements:
-* Gradle 1.11+
+* [Gradle](http://www.gradle.org/) 1.11+
 * JDK 1.8.0+
 
 
