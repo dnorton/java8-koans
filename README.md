@@ -1,7 +1,11 @@
 My Java8 Playground
 ================
 
-Learning Java 8
+# Learning Java 8
+
+Requirements:
+* Gradle 1.11+
+* JDK 1.8.0+
 
 
 To start using this project in IntelliJ
