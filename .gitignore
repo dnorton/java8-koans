@@ -2,3 +2,7 @@ target/
 build/
 .gradle/
 .idea/
+out/
+*.iml
+*.ipr
+*.iws
