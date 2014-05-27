@@ -1,4 +1,4 @@
-java8_playground
+My Java8 Playground
 ================
 
 Learning Java 8
