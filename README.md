@@ -1,7 +1,8 @@
 My Java8 Koans
 ================
 
-# Java 8 Koans - TODO: make tests into actual koans
+# Java 8 Koans
+_TODO: make tests into actual koans_
 
 Requirements:
 * [Gradle](http://www.gradle.org/) 1.11+
