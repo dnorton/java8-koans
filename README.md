@@ -1,7 +1,7 @@
-My Java8 Playground
+My Java8 Koans
 ================
 
-# Learning Java 8
+# Java 8 Koans - TODO: make tests into actual koans
 
 Requirements:
 * [Gradle](http://www.gradle.org/) 1.11+
