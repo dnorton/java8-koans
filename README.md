@@ -16,3 +16,7 @@ To start using this project in IntelliJ
 
 1. run `gradle idea` from the command line
 2. open the newly created project in IntelliJ
+ 
+## Koans
+
+[Intro to Koans](http://sett.ociweb.com/sett/settJan2011.html)
