@@ -2,7 +2,10 @@ My Java8 Koans
 ================
 
 # Java 8 Koans
-_TODO: make tests into actual koans_
+_Tasks:_
+- [ ] make tests into actual koans
+- [ ] JavaFx examples
+- [ ] Base64 examples
 
 Requirements:
 * [Gradle](http://www.gradle.org/) 1.11+
